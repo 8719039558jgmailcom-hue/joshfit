@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JoshFit</string>
+    <string name="tagline_hinglish">Ghar Pe Gym • Live AI Form Coach</string>
+    <string name="tagline_english">Home Workout • Live AI Form Coach</string>
+    <string name="framing_guide_hinglish">Camera aise rakhein ki poora shareer / upper body saaf dikhe</string>
+    <string name="framing_guide_english">Place camera so full body / upper body is visible</string>
+    <string name="start_camera_coach_hinglish">Start Camera AI Coach</string>
+    <string name="start_camera_coach_english">Start Camera AI Coach</string>
+    <string name="demo_mode_label">Demo AI Mode</string>
+    <string name="camera_permission_rationale">Camera permission lets JoshFit Gemini AI analyze your workout posture in real time. You can also use Demo Mode anytime.</string>
+</resources>
